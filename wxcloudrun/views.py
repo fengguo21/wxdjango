@@ -39,7 +39,6 @@ def counter(request, _):
 
 
 def get_count():
-    
     """
     获取当前计数
     """
